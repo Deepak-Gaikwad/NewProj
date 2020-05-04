@@ -1,0 +1,24 @@
+body{
+	background:orange;
+}
+
+.loginForm{
+	background: white;
+    height: 500px;
+    top: 100px;
+    border-radius: 11px;
+}
+
+#captcha input{
+  background: url(http://img3.uploadhouse.com/fileuploads/17737/17737011310213e71805ecf2292144cbbecf42ad.png) no-repeat scroll 0 0 transparent;
+  margin: 5px 0 0;
+  padding: 0;
+  border: medium none;
+  cursor: pointer;
+  width: 15px;
+}
+#captcha{
+  background: orange;
+  padding: 8px;
+  border-radius: 7px;
+}
